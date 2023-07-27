@@ -18,27 +18,21 @@ Visual representation is a core element of the project, and Power BI serves as t
 ![dashboard_two](https://github.com/nerdrafi/employee-management-sql-powerbi/assets/132803284/6e458444-244f-4257-9771-cc97f5239b75)
 
 **Key Insights:**
-1. Employee Gender Breakdown: A visually appealing pie chart showcases the distribution of genders within the organization, assisting HR in assessing workforce gender diversity.
+1. Employee Gender Breakdown: A visually appealing donut pie chart showcases the distribution of genders within the organization, assisting HR in assessing workforce gender diversity.
 
-2. Race/Ethnicity Breakdown: Stacked bar charts present the representation of different racial and ethnic groups, empowering HR to evaluate diversity and inclusivity efforts.
+2. Race/Ethnicity Breakdown: Horizontal bar charts present the representation of different racial and ethnic groups, empowering HR to evaluate diversity and inclusivity efforts.
 
-3. Age Distribution: A histogram provides an intuitive view of employee age groups, enabling HR to understand the generational makeup of the workforce.
+3. Age Distribution: A clustered bar chart provides an intuitive view of employee age groups, enabling HR to understand the generational makeup of the workforce.
 
-4. Headquarters vs. Remote Workforce: Grouped bar charts illustrate the employee count at the company's headquarters and remote locations, facilitating workforce planning.
+4. Headquarters vs. Remote Workforce: A donut pie charts illustrate the employee count at the company's headquarters and remote locations, facilitating workforce planning.
 
-5. Average Length of Employment for Terminated Employees: Box plots display the average tenure of terminated employees, allowing HR to identify patterns and address retention challenges.
+5. Gender Distribution Across Departments and Job Titles: Grouped bar charts help HR professionals analyze gender distribution in different departments and job titles for potential gender-based disparities.
 
-6. Gender Distribution Across Departments and Job Titles: Stacked and grouped bar charts help HR professionals analyze gender distribution in different departments and job titles for potential gender-based disparities.
+6. Highest Turnover Rate by Department: Vertical bar charts provide insights into departments with the highest turnover rates, guiding HR in implementing targeted retention strategies.
 
-7. Job Titles Distribution: Bar charts or treemaps showcase the distribution of job titles, enabling HR to comprehend the organizational structure and identify key roles.
+7. Employees Distribution Across Locations: A map visualize the distribution of employees across different cities and states, aiding in resource allocation and location-based decision-making.
 
-8. Highest Turnover Rate by Department: Horizontal bar charts provide insights into departments with the highest turnover rates, guiding HR in implementing targeted retention strategies.
-
-9. Employees Distribution Across Locations: Choropleth maps or geospatial plots visualize the distribution of employees across different cities and states, aiding in resource allocation and location-based decision-making.
-
-10. Changes in Employee Count Over Time: Line charts or area charts depict the organization's historical employee count based on hire and termination dates, facilitating long-term workforce planning.
-
-11. Tenure Distribution for Each Department: Box plots or violin plots present the tenure distribution within each department, assisting HR in understanding employee loyalty and engagement.
+8. Changes in Employee Count Over Time: Line charts or area charts depict the organization's historical employee count based on hire and termination dates, facilitating long-term workforce planning.
 
 **Conclusion:**
 The "Employee Management for HR - Demographics Analysis" project effectively utilizes SQL for data manipulation and Power BI for data visualization to provide HR professionals with comprehensive insights into the employee workforce. By leveraging these insights, HR can make informed decisions to foster a diverse, inclusive, and motivated workforce, contributing to the organization's overall success and growth.
